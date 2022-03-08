@@ -11,7 +11,7 @@
                  [ring/ring-mock "0.3.1"]
                  [bananaoomarang/ring-debug-logging "1.1.0"]
                  [clj-time "0.13.0"]]
-  :plugins [[lein-ring "0.9.7"]
+  :plugins [[lein-ring "0.12.5"]
             [lein-midje "3.2.1"]
             [lein-cljfmt "0.6.1"]
             [lein-codox "0.10.5"]]
